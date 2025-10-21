@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: fly-io--pg-app-25-10-21
