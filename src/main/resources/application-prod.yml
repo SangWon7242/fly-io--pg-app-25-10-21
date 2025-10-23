@@ -3,7 +3,7 @@ spring:
     url: jdbc:postgresql://sangwon7242-db.internal:5432/surl_prod # 운영환경 DB
     username: postgres
     password: pkcslCuiY8c7EqL
-    driver-class-name: org.h2.Driver
+    driver-class-name: org.postgresql.Driver
     hikari:
       auto-commit: false
   jpa:
